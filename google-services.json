@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "96879889891",
+    "project_id": "signbridge-ffc2e",
+    "storage_bucket": "signbridge-ffc2e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96879889891:android:2dd30ae885e695f1cb24d6",
+        "android_client_info": {
+          "package_name": "com.example.signbridge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe5Kt9pi918x3TP6XoJHAAf5cEdJDWfZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
